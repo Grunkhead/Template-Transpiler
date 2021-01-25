@@ -1,0 +1,22 @@
+{
+    "_README": [
+      "This file needs to be placed inside the frontend components directory.",
+      "Fill in the name of the component by their PARENT directory name.",
+      "Please, only use one of the 2 transpile options: dont, only",
+
+      "DONT_TRANSPILE_COMPONENT_DIRECTORY_NAMES",
+      "Do not transpile components that are listed.",
+  
+      "ONLY_TRANSPILE_COMPONENT_DIRECTORY_NAMES",
+      "Only transpile components that are listed."
+    ],
+
+    "SETTING_ENABLED": {
+        "DONT_TRANSPILE_COMPONENT_DIRECTORY_NAMES": false,
+        "ONLY_TRANSPILE_COMPONENT_DIRECTORY_NAMES": false
+    },
+  
+    "DONT_TRANSPILE_COMPONENT_DIRECTORY_NAMES": [],
+    "ONLY_TRANSPILE_COMPONENT_DIRECTORY_NAMES": []
+  }
+  
